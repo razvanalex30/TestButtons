@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<keywordspec name="click_buttons.ClickButtons" type="LIBRARY" format="ROBOT" scope="TEST" namedargs="true" generated="2021-03-30T13:01:55Z" specversion="2" source="C:\Users\RAlexandru\Documents\Proiecte Eclipse\TestButtons\click_buttons.py" lineno="6">
+<version />
+<scope>test case</scope>
+<namedargs>yes</namedargs>
+<doc>Documentation for library ``click_buttons.ClickButtons``.</doc>
+<kw name="Click Selected Button" lineno="27">
+<arguments>
+<arg>choice</arg>
+</arguments>
+<doc />
+</kw>
+<kw name="Retrieve Buttons" lineno="11">
+<arguments>
+</arguments>
+<doc>Method used to retrieve all the buttons in the page
+:return:</doc>
+</kw>
+</keywordspec>
